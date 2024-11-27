@@ -41,8 +41,13 @@ Main Menu:
 
 Load File:
 
-![alt tag](https://lh3.googleusercontent.com/YtUxS4aWqRtu2kUyOVvB72tP6YopR2WQ8rD64Y_sxw=w670-h314-no)
+![image_2024-11-27_134834572](https://github.com/user-attachments/assets/52cce577-ab09-4ffc-b335-81215e54dcfa)
 
+
+
+Choose Difficulty:
+
+![image_2024-11-27_134938529](https://github.com/user-attachments/assets/1a45ee7a-468d-4999-900a-679d1b40150e)
 
 
 Hard Mode (start):
