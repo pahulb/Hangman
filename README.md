@@ -1,9 +1,9 @@
 # C++ - Hangman
 
-####Background
+## Background
 A C++ project for fun
 
-####Description
+## Description
 * Very old-fashioned hangman game played on the command prompt with no images, like the days of DOS
 	
 * Three options: Start Game, Load File, Exit
@@ -23,12 +23,12 @@ A C++ project for fun
 	
 * A lot of error checking, from checking valid inputs to stripping special characters and numbers from words in a word list.
 
-####Install
+## Install
 Download the application file (.exe), run it, play! If you want to create your own word list, take a look at the SampleWordList file, save it to the same folder as the application file.
 	
-####This project is final and for demonstration purposes only.
+## This project is final and for demonstration purposes only.
 
-####Images
+## Images
 Main Menu:
 
 ![alt tag](https://lh3.googleusercontent.com/gP-lomkGN_hYMctBz_h3E6cM47WwHLZjRuDFPRW45Q=w665-h315-no)
