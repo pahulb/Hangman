@@ -63,7 +63,13 @@ Hard Mode (progress):
 ![image_2024-11-27_135210903](https://github.com/user-attachments/assets/4483ac7a-8628-4789-81d2-2fd38bb8ec32)
 
 
-Hard Mode (end):
+Hard Mode (end LOSING):
 
 ![image_2024-11-27_135251297](https://github.com/user-attachments/assets/026f538d-aba3-4b5c-98fe-1ddf3f983090)
+
+Hard Mode (end WINNING):
+
+![image_2024-11-27_135603999](https://github.com/user-attachments/assets/efca2b11-9d4d-4f43-a6d1-2d3f776e0ef7)
+
+
 
