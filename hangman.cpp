@@ -1,8 +1,3 @@
-/*********************************
-	Game: Hangman
-	Author: Pahulreet Singh Bhangu
-
-*********************************/
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -325,7 +320,6 @@ void startGame_EASY_NORMAL(string word, int MAX_GUESSES){
 	}
 
 }
-/********************************************/
 
 /**********HARD MODE**********/
 void startGame_HARD(vector<string> list, int MAX_GUESSES){
@@ -404,7 +398,6 @@ void startGame_HARD(vector<string> list, int MAX_GUESSES){
 	}
 
 }
-/********************************************/
 
 /*********MAIN*********/
 int main(){
