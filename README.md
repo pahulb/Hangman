@@ -35,7 +35,7 @@ A C++ project for fun
 ## Images
 Main Menu:
 
-![alt tag](https://lh3.googleusercontent.com/gP-lomkGN_hYMctBz_h3E6cM47WwHLZjRuDFPRW45Q=w665-h315-no)
+![image_2024-11-27_134733352](https://github.com/user-attachments/assets/0fd459f5-3e64-457b-922c-a96446b32c61)
 
 
 
