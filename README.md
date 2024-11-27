@@ -23,10 +23,14 @@ A C++ project for fun
 	
 * A lot of error checking, from checking valid inputs to stripping special characters and numbers from words in a word list.
 
-## Install
-Download the application file (.exe), run it, play! If you want to create your own word list, take a look at the SampleWordList file, save it to the same folder as the application file.
+## How to Run Game
+   - Copy the code in my repository and paste it into a c++ IDE like codeblocks.
+   - For codeblocks you would paste it into the main.cpp section.
+   - Then you would press the yellow gear button to build and green play button to run the code and then play the game.
+   - In order to load a file you will need to add a file into the IDE by clicking on project at the top and pressing add files.
+   - Then you would select the the number 2 option which is load files and type the file name.
 	
-## This project is final and for demonstration purposes only.
+## Sample Example
 
 ## Images
 Main Menu:
