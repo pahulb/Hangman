@@ -52,13 +52,13 @@ Choose Difficulty:
 
 Hard Mode (start):
 
-![alt tag](https://lh3.googleusercontent.com/fhxb2sCvMXjXwP3LLeze86aByvRT9laF-xy4F45EaQ=w670-h311-no)
+![image_2024-11-27_135030349](https://github.com/user-attachments/assets/df8680ce-fd9d-46a1-8f2d-dce543c04a56)
 
 
 
 Hard Mode (progress):
 
-![alt tag](https://lh3.googleusercontent.com/HhD5w8nTuWhwhFkXDWmFDb1Fx4R-TvT4ZIX-sR90yQ=w672-h312-no)
+![image_2024-11-27_135210903](https://github.com/user-attachments/assets/4483ac7a-8628-4789-81d2-2fd38bb8ec32)
 
 
 
