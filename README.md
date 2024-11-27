@@ -38,11 +38,9 @@ Main Menu:
 ![image_2024-11-27_134733352](https://github.com/user-attachments/assets/0fd459f5-3e64-457b-922c-a96446b32c61)
 
 
-
 Load File:
 
 ![image_2024-11-27_134834572](https://github.com/user-attachments/assets/52cce577-ab09-4ffc-b335-81215e54dcfa)
-
 
 
 Choose Difficulty:
@@ -50,10 +48,14 @@ Choose Difficulty:
 ![image_2024-11-27_134938529](https://github.com/user-attachments/assets/1a45ee7a-468d-4999-900a-679d1b40150e)
 
 
+Difficulty Description:
+
+![image_2024-11-27_135341397](https://github.com/user-attachments/assets/6c7320fa-1359-4911-9046-81a2266cdd86)
+
+
 Hard Mode (start):
 
 ![image_2024-11-27_135030349](https://github.com/user-attachments/assets/df8680ce-fd9d-46a1-8f2d-dce543c04a56)
-
 
 
 Hard Mode (progress):
@@ -61,7 +63,7 @@ Hard Mode (progress):
 ![image_2024-11-27_135210903](https://github.com/user-attachments/assets/4483ac7a-8628-4789-81d2-2fd38bb8ec32)
 
 
-
 Hard Mode (end):
 
-![alt tag](https://lh3.googleusercontent.com/tOSX7HldXj-KlJAhA8jVXvlv_WTT4Wc9G3JS0W24zA=w671-h313-no)
+![image_2024-11-27_135251297](https://github.com/user-attachments/assets/026f538d-aba3-4b5c-98fe-1ddf3f983090)
+
